@@ -142,32 +142,32 @@ p {
 
 i {
   font-style: normal;
-  color: #2457F5;
+  color: #61cc79;
 }
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #2457F5;
+  color: #61cc79;
 }
 a:hover {
-  color: #083BDA;
+  color: #61cc79;
 }
 a:focus {
-  outline: #7AB8FF solid 2px;
+  outline: #61cc79 solid 2px;
   border-radius: 2px;
 }
 
 /* Link Color Dark Theme */
 @media (prefers-color-scheme: dark) {
   a {
-    color: #4899F7;
+    color: #61cc79;
 }
 a:hover {
-  color: #7AB8FF;
+  color: #61cc79;
 }
 a:focus {
-  outline: #7AB8FF solid 2px;
+  outline: #61cc79 solid 2px;
   border-radius: 2px;
 }
 }
